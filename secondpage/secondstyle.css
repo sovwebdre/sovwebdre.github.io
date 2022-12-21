@@ -1,0 +1,15 @@
+body {
+    background-color: black;
+    text-align: center;
+    background-image: url(./dario-bronnimann-hNQwIirOseE-unsplash.jpg);
+}
+h1{
+    font-size: 350%;
+    color: aliceblue;
+    font-family: monospace;
+}
+h3{
+    font-size: 150%;
+    color: aliceblue;
+    font-family: monospace;
+}
