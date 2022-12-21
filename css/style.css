@@ -24,6 +24,7 @@ main {
     width: 720px;
     margin-left: calc(50% - 700px/2);
     padding: 10px;
+    text-align: center;
 }
 body {
     margin: 0px;
