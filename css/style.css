@@ -5,12 +5,12 @@ body {
 }
 h1 {
     font-size: 3em;
-    color: aliceblue;
+    color: rgb(255, 248, 240);
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 a {
     font-size: 110%;
-    color: aliceblue;
+    color: rgb(255, 250, 240);
     text-decoration: none;
     background-color: rgba(250, 235, 215, 0.188);
 }
