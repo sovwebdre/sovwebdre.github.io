@@ -1,51 +1,24 @@
 body {
-    background: linear-gradient(23deg,rgba(255, 217, 0, 0.521), rgba(0, 255, 0, 0.416));
-}
-header {
-    background: linear-gradient(45deg, lightgreen,darkgoldenrod,darkkhaki);
-    height: 100px;
-    width: 700px;
-    margin-left: calc(50% - 700px/2);
-    margin-top: 0px;
-    padding: 20px;
-    display: flex;
-}
-footer {
-    max-height: calc(100% - 600px + 100px);
-    height: 100px;
-    width: 740px;
-    margin-left: calc(50% - 700px/2);
-    background-color: burlywood;
+    background-color: black;
     text-align: center;
-}
-main {
-    background-color: tomato;
-    height: 500px;
-    width: 720px;
-    margin-left: calc(50% - 700px/2);
-    padding: 10px;
-    text-align: center;
-}
-body {
-    margin: 0px;
-}
-header h1 {
-    color: dark;
-    font-size: 3em;
-    font-family: monospace;
-}
-header img {
-    border-radius: 50%;
-}
-#hemarq {
-    background-color: aquamarine;
-    text-decoration-color: rgb(0, 25, 29);
-    text-shadow: 30px,darkviolet;
-    font-size: 2em;
-    height: 55px;
-    width: 744px;
-    margin-left: calc(47% - 700px/2);
-}
-span {
     font-size: 120%;
-} 
+}
+h1 {
+    font-size: 3em;
+    color: aliceblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+a {
+    font-size: 110%;
+    color: aliceblue;
+    text-decoration: none;
+    background-color: rgba(250, 235, 215, 0.188);
+}
+h3 {
+    color: bisque;
+    font-size: 160%;
+}
+a:hover {
+    background-color: rgba(127, 255, 212, 0.112);
+    text-decoration: underline;
+}
